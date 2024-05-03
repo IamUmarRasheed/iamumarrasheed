@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Rasheed</h1>
-<h3 align="center">A passionate Full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamumarrasheed&label=Profile%20views&color=0e75b6&style=flat" alt="iamumarrasheed" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud GenAI Engineering**
 
-- 💬 Ask me about **React.js,Next.js,Node.js**
+- 💬 Ask me about ** React.js, Next.js, Node.js, Mysql**
 
 - 📫 How to reach me **theumarrasheed@gmail.com**
 
