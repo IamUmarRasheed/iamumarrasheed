@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Cloud GenAI Engineering**
 
-- 💬 Ask me about ** React.js, Next.js, Node.js, Mysql**
+- 💬 Ask me about ** React.js, Next.js, Node.js, Mysql **
 
-- 📫 How to reach me **theumarrasheed@gmail.com**
+- 📫 How to reach me ** theumarrasheed@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
