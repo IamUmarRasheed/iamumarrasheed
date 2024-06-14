@@ -7,34 +7,10 @@ Umar Rasheed: Crafting Digital Experiences with Passion</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-💼 Technologies I Work With  
-Frontend:  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React.js  
-- Redux  
-- TypeScript  
-- Vue.js  
-
-Backend:  
-- Node.js  
-- Express.js  
-- MongoDB  
-- MySQL  
-- PostgreSQL  
-- GraphQL  
-
-Tools:  
-- Git  
-- Docker  
-- Postman  
-- Figma  
-
-Others:  
-- Bootstrap  
-- Tailwind CSS  
-- Linux  
+Frontend: HTML5, CSS3, JavaScript, React.js, Redux, TypeScript, Vue.js <br>
+Backend: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL <br>
+Tools: Git, Docker, Postman, Figma <br>
+Others: Bootstrap, Tailwind CSS, Linux  <br>
 
 
 - 📫 How to reach me ** theumarrasheed@gmail.com **
