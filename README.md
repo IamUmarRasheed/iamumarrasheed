@@ -11,7 +11,7 @@ Umar Rasheed: Crafting Digital Experiences with Passion</h1>
     <span style="display: inline-block; margin-right: 10px;">Frontend:</span> HTML5, CSS3, JavaScript, React.js, Redux, TypeScript, Vue.js<br>
     <span style="display: inline-block; margin-right: 10px;">Backend:</span> Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL<br>
     <span style="display: inline-block; margin-right: 10px;">Tools:</span> Git, Docker, Postman, Figma<br>
-    <span style="display: inline-block; margin-right: 10px;">Others:</span> Bootstrap, Tailwind CSS, Linux
+    <span style="display: inline-block; margin-right: 10px;">Others:</span> Bootstrap, Tailwind CSS
 </p>
 
 
