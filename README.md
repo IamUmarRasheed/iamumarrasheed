@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Umar Rasheed</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h1 align="center">
+Umar Rasheed: Crafting Digital Experiences with Passion</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamumarrasheed&label=Profile%20views&color=0e75b6&style=flat" alt="iamumarrasheed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud GenAI Engineering**
 
-- 💬 Ask me about ** React.js, Next.js, Node.js, Mysql **
+💼 Technologies I Work With
+Frontend: HTML5, CSS3, JavaScript, React.js, Redux, TypeScript, Vue.js
+Backend: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL
+Tools: Git, Docker, Postman, Figma
+Others: Bootstrap, Tailwind CSS, Linux
 
 - 📫 How to reach me ** theumarrasheed@gmail.com **
 
